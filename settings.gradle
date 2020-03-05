@@ -1,0 +1,2 @@
+include ':app', ':mingalartech2'
+rootProject.name='MingalarTech'
